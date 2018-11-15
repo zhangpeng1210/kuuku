@@ -1,0 +1,11 @@
+<1>git init              /#/初始化
+
+<2>git add .           /#/代表提交整个文件的内容
+
+<3>git commit -m"添加一个文件夹"    /#/提交并且备注信息
+
+<4>git remote add origin  -->>>git@github.com:fujinbiao992/wodeku.git  /#/后面是远程仓库的地址
+
+<5>git push -u origin master  /#/提交
+
+<6>git status   /#/状态查询命令
